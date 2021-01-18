@@ -5,6 +5,6 @@ while usuario != numero:
     if usuario > numero:
         print("digita un número menor")
     elif usuario < numero:
-        print("digita un número mayor")
+        print("digita un número mayor ")
     else:
         print("correcto!")
